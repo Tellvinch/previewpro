@@ -66,12 +66,12 @@
  Given that a user is logged in and updated their profile, then they should be able to  view their profile.
 
 ### Technologies Used
- *Python
- *Django
- *PostgreSQL
- *HTML5
- *CSS3
- *Postman
+ # Python
+ # Django
+ # PostgreSQL
+ # HTML5
+ # CSS3
+ # Postman
 
 ### License
 [MIT](LICENSE)
