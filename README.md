@@ -71,7 +71,7 @@
  #### PostgreSQL
  #### HTML5
  #### CSS3
- #### Postmanogrboglvrwuojvlb orbljvw rvljwrvjlrbv r
+ #### Postmanogrboglvrwuojvlb orbljvw rvljwrvjlrb
 
 ### License
 [MIT LICENSE](https://github.com/Tellvinch/previewpro/blob/master/license.md)
