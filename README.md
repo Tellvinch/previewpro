@@ -74,7 +74,7 @@
  #### Postman
 
 ### License
-[MIT LICENSE](https://github.com/Tellvinch/previewpro/blob/master/license.md
+[MIT LICENSE](https://github.com/Tellvinch/previewpro/blob/master/license.md)
 
 ### Contact
  tellvinchimani@gmail.com
