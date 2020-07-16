@@ -1,0 +1,1 @@
+web: gunicorn propreview.wsgi --log-file -
