@@ -71,7 +71,7 @@
  #### PostgreSQL
  #### HTML5
  #### CSS3
- #### Postmanogrboglvrwuojvlb orbljvw rvljwrvjlrbv rojvlr 
+ #### Postmanogrboglvrwuojvlb orbljvw rvljwrvjlrbv rojvl
 
 
 
